@@ -203,6 +203,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/io.rsocket.kotlin/rsocket-core)](https://central.sonatype.com/artifact/io.rsocket.kotlin/rsocket-core)
 > RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.
 
+[dnskotlin](https://github.com/lost-illusi0n/dnskotlin) - DNS resolver
+[![Github Repo stars](https://img.shields.io/github/stars/lost-illusi0n/dnskotlin?style=flat)](https://github.com/lost-illusi0n/dnskotlin)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.sitar/dnskotlin)](https://central.sonatype.com/artifact/dev.sitar/dnskotlin)
+> A Kotlin multi-platform DNS resolver with support for various transports and protocol extensions.
+
 ### 📦 Storage
 [Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
 [![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
